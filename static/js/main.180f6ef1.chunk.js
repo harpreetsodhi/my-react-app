@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-react-app"]=this["webpackJsonpmy-react-app"]||[]).push([[0],{4:function(e,t,c){"use strict";c.r(t);c(1);var r=c(3),n=c.n(r),l=c(0),a=function(){return Object(l.jsxs)("div",{children:[Object(l.jsx)("label",{className:"label",htmlFor:"name",children:"Hello, Harpreet!"}),Object(l.jsx)("input",{id:"name",type:"text"}),Object(l.jsx)("button",{style:{backgroundColor:"blue",color:"white"},children:"Click Me"})]})};n.a.render(Object(l.jsx)(a,{}),document.querySelector("#root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.180f6ef1.chunk.js.map
